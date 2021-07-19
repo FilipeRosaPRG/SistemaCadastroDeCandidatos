@@ -16,14 +16,14 @@
 
 - [x] Step 3 - Use ViaCEP to auto-complete the candidate's address;
 
-<h1>Tecnologias usadas</h1>
+# Technologies
 
 - PHP
 - HTML
 - CSS (Materialize)
 - JavaScript
 
-# Imagens 
+# Images 
 
 | Tela de Login | Cadastro do Candidato | Consulta | Alteração | 
 |:---------------------------------------:|:-----------------------------------:|:-------------------------------:|:-------------------------------:|
@@ -61,11 +61,3 @@ Here are some references that helped me a lot with this project.
 [Celke](https://www.youtube.com/c/CelkeBr)
 
 [Andre LPDZ](https://www.youtube.com/c/ANDRELPDZ)
-
-
-
-
-
-
-
-
