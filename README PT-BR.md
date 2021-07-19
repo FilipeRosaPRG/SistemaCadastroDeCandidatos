@@ -39,7 +39,9 @@ Primeiro você precisa de algum editor (neste projeto foi usado o Visual Studio 
 ![](https://i.imgur.com/56R686f.png)
 
 **2.** Coloque seu projeto na pasta: ```C:\xampp\htdocs```
-**3.** ### Banco de Dados
+
+**3.** Banco de Dados:
+
 Coloque em seu navegador: ```localhost/phpmyadmin/```
 
 **4.**
@@ -50,6 +52,7 @@ Coloque em seu navegador: ```localhost/phpmyadmin/```
 ![](https://i.imgur.com/PyVs6aD.png)
 
 **6.** Escolha o arquivo ```db_cadastro.sql``` 
+
 **7.** E finalmente, Coloque em seu navegador ```localhost/DesafioCrowe/```
 
 # Referências
