@@ -1,6 +1,6 @@
 <html lang="pt-br">
   <head>
-    <title>Cadastrar candidatos/title>
+    <title>Cadastrar candidatos</title>
     <meta charset="utf-8">
     <link rel="sortcut icon" href="imagens/Croweicon.png" type="image/x-icon" />
 
