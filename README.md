@@ -25,7 +25,7 @@
 
 # Images 
 
-| Tela de Login | Cadastro do Candidato | Consulta | Alteração | 
+| Login screen | Candidate registration | Query | Change | 
 |:---------------------------------------:|:-----------------------------------:|:-------------------------------:|:-------------------------------:|
 | ![home](https://i.imgur.com/JF5Ffva.png) | ![addcategory](https://i.imgur.com/PODGmGG.png) | ![add](https://i.imgur.com/En7IZAw.png) | ![users list](https://i.imgur.com/SSGZmtY.png) | 
 
