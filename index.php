@@ -2,10 +2,10 @@
 
 if(!isset($_SESSION['cadastro'])){
     if(isset($_POST['acao'])){
-        $login   = 'admin';
+        $usuario   = 'admin';
         $senha   = 'admin';
 
-        $loginForm   = $_POST['login'];
+        $usuarioForm   = $_POST['login'];
         $senhaForm   = $_POST['senha'];
 
         if($usuario == $usuarioForm && $senha == $senhaForm){
