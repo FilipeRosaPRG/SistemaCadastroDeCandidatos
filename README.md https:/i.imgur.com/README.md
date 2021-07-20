@@ -27,7 +27,7 @@
 
 | Login screen | Candidate registration | Query | Change | 
 |:---------------------------------------:|:-----------------------------------:|:-------------------------------:|:-------------------------------:|
-| ![home](https://i.imgur.com/JF5Ffva.png) | ![addcategory](https://i.imgur.com/PODGmGG.png) | ![add](https://i.imgur.com/En7IZAw.png) | ![users list](https://i.imgur.com/SSGZmtY.png) | 
+| ![home](https://i.imgur.com/JF5Ffva.png) | ![addcategory](https://i.imgur.com/PODGmGG.png) | ![add](https://i.imgur.com/SSGZmtY.png) | ![users list](https://i.imgur.com/En7IZAw.png) | 
 
 # Setup
 
@@ -39,7 +39,9 @@ First you need some editor (in this project Visual Studio Code was used) and XAM
 ![](https://i.imgur.com/56R686f.png)
 
 **2.** Put the project in the ```C:\xampp\htdocs```
-**3.** ### Database
+
+**3.** **Database**
+
 Put in your browser ```localhost/phpmyadmin/```
 
 **4.**
@@ -50,6 +52,7 @@ Put in your browser ```localhost/phpmyadmin/```
 ![](https://i.imgur.com/PyVs6aD.png)
 
 **6.** Choose the ```db_cadastro.sql``` file
+
 **7.** And finally, put in your browser ```localhost/DesafioCrowe/```
 
 # References
