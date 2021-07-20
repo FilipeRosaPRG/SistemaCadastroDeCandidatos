@@ -1,3 +1,28 @@
+# Candidate Registration System
+
+
+### This project is a challenge given by the company Crowe (An Auditing and Consulting company).
+
+#### Here is the statement:
+
+  Crowe is starting a new selection process and asked the Technology sector to create a form to register candidates who participate in this selection process.
+
+  Our Recruitment department has given us some premises that need to be followed:
+
+
+- [x] Step 1 - Create data structure to store candidate data;
+
+- [x] Step 2 - Register the candidate;
+
+- [x] Step 3 - Use ViaCEP to auto-complete the candidate's address;
+
+# Technologies
+
+- PHP
+- HTML
+- CSS ( [Materialize](https://materializecss.com/about.html) )
+- JavaScript
+
 # Images 
 
 | Login screen | Candidate registration | Query | Change | 
